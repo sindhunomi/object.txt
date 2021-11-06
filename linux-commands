@@ -1,0 +1,18 @@
+linux file system:
+when we install the linux operating systems linux offers many file systems such as Ext,Ext2,Ext3...
+linux also supports 100 file systems ,including some very old ones as well as some of the newest
+each of these file system types uses its own metadata structures to define how the data is stored and accessed.
+ 
+  */:root directory(base of the file sysyem). 
+ 
+  /bin:executable programs.
+  
+  /boot:linux kernel and boot ladder.
+
+  /dev:special device files.
+  
+  /etc:system configuration files.
+  
+  /home:home directories of all users.
+  
+  /lib:library files for programs.
