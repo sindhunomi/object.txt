@@ -1,4 +1,4 @@
-#!/bin/ba#!/bin/bash
+#!/bin/bash
 #Add two numeric values
  ((sum=25+25))
 
