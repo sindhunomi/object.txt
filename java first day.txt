@@ -1,0 +1,27 @@
+*java is a popular high level programming language(1995),owned by oracle.
+*to develop web applications,mobile applications,web server,application,desktop applications,games,database connections 
+(android)
+*linux,windows,raspberry,mac,pi etc--->os opensource,secure,powerful,free
+*object oriented language(code is reusable)-->c++,c
+*switching is easy from java and vice versa.
+*every application begins with a class name and it should match with file name.
+class Main
+{
+public static void main (String[] args){
+System.out.println("hello world:");        * java is a case sensitive   
+}                  *main method must be present from where the execution starts.  
+}                  
+*save-->Main.java
+compile-->javac Main.java       *java comments: 
+run--> java Main                          it can also be used to prevent execution when testing alternative code
+                                         *single line
+java Syntax:                              *multi line commands    *comments are not executed
+                                          sc--> //this is a comment
+class Name                                ml-->/*this is a comment*/
+{
+ main method()                          
+ {
+  lines of code()    
+System.out.println();
+  }
+ }
