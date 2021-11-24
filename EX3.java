@@ -28,29 +28,9 @@ class LibraryAccount
          System.out.println(la.bookno); 
          System.out.println(la.accountholder_name);
          System.out.println(la.amount);
-         la.payamount();
-     } 
-}      
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+         la.payaymount();
+    }
+}
 
 
 
