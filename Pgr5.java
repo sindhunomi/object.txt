@@ -5,9 +5,9 @@ class Pgr5{
            System.out.println("enter a number");
            Scanner sc =new Scanner(System.in);
             int N = sc.nextInt();
-       for(i=0;i<11;i++){
+       for(i=0;i<=20;i++){
         int c=N*i;
-       System.out.println(N +" * " + i + "="  + c);
+       System.out.println(N +"  x " + i + " = "  + c);
       }
    }
 }
