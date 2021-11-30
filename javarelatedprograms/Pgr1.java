@@ -24,8 +24,23 @@ import java.io.*;
                            {
                                   System.out.println("can't be fitted anywhere");
                              }
-                         }
-                    }
+                         }                                                                                                              // Sample input:5
+//-150 150000 1500000000 21333333333333333333333333333 -100000000000000
+
+//Sample output
+//-150can be fitted in :
+//short
+//int
+//long
+//150000can be fitted in :
+//int
+//long
+//1500000000can be fitted in :
+//int
+//long
+//can't be fitted anywhere
+//can't be fitted anywhere
+                     }
                }       
                 
           
