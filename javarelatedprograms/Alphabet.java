@@ -22,3 +22,24 @@
              System.out.println("Hello\t Java" );
         }
   }
+//Sample input:
+//hello 
+//java
+                              //Sample output:
+                               //9
+                              //NO
+                              //Hello Java
+
+
+
+
+
+
+
+
+
+
+
+
+
+
