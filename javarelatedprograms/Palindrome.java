@@ -17,4 +17,7 @@ class Palindrome
                      else
                     System.out.println("no");
             }
-  }
+  }                                                                         //sample input:
+                                                                                                     //mom
+                                                                             //sample output:
+                                                                                                    // yes
