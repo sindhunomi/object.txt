@@ -9,15 +9,15 @@ import java.util.*;
            ar.remove(new String("SindhuSri"));      
            System.out.println("Iterator way approach");
              Iterator <String> itr = ar.iterator();
-                  while(itr.hasNext()){
+                  while(itr.hasNext()){                                    //yields output from top to bottom
                    String temp = itr.next();
                System.out.println(temp);
-              }
+              }  
              System.out.println("ListIterator way of approach");
               ar.add(2,"SindhuSri");
-              ListIterator<String>itv = ar.listIterator();
-               while(itv.hasNext()){
-                String temp2=itv.next();
+              ListIterator<String>itv = ar.listIterator(4);     //yields output from bottomto top
+               while(itv.hasPrevious()){
+                String temp2=itv.previous();
                 System.out.println(temp2); 
               }
          }
