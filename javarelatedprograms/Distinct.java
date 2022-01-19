@@ -5,7 +5,7 @@
                        if(arr[i]!=arr[i+1])
                           System.out.println(arr[i]);
                       }
-              //    System.out.println(arr[arr.length]);  
+               System.out.println(arr[arr.length-1]);  
                }
         }
           
