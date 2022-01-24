@@ -1,5 +1,5 @@
 class Test{
-   public static void main(String args[]){
+    static{
         System.out.println("program without main method");
         System.exit(0);
     } 
